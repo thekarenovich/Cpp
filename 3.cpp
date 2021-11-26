@@ -4,6 +4,8 @@ using namespace std;
 
 int main()
 {
+	cout << "cOOOOOOOut" << endl;
+	
 	double a, b, c, d, e, f, g, h, i, j;
 	cin >> a >> b >> c >> d >> e >> f >> g >> h >> i >> j;
 	{
