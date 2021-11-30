@@ -21,6 +21,7 @@ double PloshadKR(double r)
 int main()
 {
 	cin >> a >> b >> c >> h >> r;
+	cout << "Something" << endl;
 	double result = PloshadPR(a, b);
 	double result1 = PloshadTR(a, h);
 	double result2 = PloshadKR(r);
